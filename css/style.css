@@ -1,0 +1,36 @@
+img{
+	height: 250px;
+	width: 200px;
+	margin: auto;
+	border-radius: 50%;
+}
+
+h1{
+	background-color: navy;
+	text-align: center;
+	color: red;
+}
+
+.about .desc{
+	padding: 3em;
+	border-left: 4px solid orange;
+
+}
+.about1 .desc{
+	padding: 3em;
+	border-left: 4px solid green;
+}
+.about2 .desc{
+	padding: 3em;
+	border-left: 4px solid #10828c;
+}
+body{
+	background-color: #FFE4C4; 
+}
+.row h2{
+	text-align: center;
+	color: red;
+}
+.row p{
+	font-size: 20px;
+}
